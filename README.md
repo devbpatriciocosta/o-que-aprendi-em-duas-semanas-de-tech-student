@@ -1,5 +1,5 @@
 # O que eu aprendi em duas semanas estudando desenvolvimento? 
-Por Bruno Patrício Costa - Fullstarck developer student
+Por Bruno Patrício Costa - Fullstack developer student
 
 ## Projetos: 
 
