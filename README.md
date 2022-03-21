@@ -9,5 +9,4 @@ Por Bruno Patrício Costa - Fullstarck developer student
 - My fav PS5 games
 - Super Trunfo do SAD Pokémon
 
-### É possível verificar todos os códigos através do acesso no link abaixo no CODEPEN: 
-(https://codepen.io/devbpatriciocosta/pen/abEdeLx)
+### [É possível verificar todos os códigos neste link](https://codepen.io/devbpatriciocosta/pen/abEdeLx)
